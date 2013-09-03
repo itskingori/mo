@@ -3,9 +3,9 @@ M.O. [★][6]
 
 [_Modus Operandi._][6]
 
-No matter how magical and awesome your output is, ultimately, every process can
-be reduced to a set of rules. These are guidelines for getting things done in a
-collaborative/community environment and programming in style.
+No matter how magical and awesome your output is, ultimately, _**every process
+can be reduced to a set of rules**_. These are guidelines for getting things
+done in a collaborative/community environment and programming in style.
 
 Guidelines
 ----------
