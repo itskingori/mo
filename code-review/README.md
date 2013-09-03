@@ -28,8 +28,8 @@ Everyone
   solution: ..." comments. Post a follow-up comment summarizing offline discussion.
 
 
-Having your code reviewed
--------------------------
+Your code reviewed
+------------------
 
 * Be grateful for the reviewer's suggestions. ("Good call. I'll make that
   change.")
