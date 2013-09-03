@@ -1,6 +1,9 @@
 Style
 =====
 
+> The layout of a document (hence) ... the form of presentation of something.
+> ~ [Wikipedia][10]
+
 Git
 ---
 
@@ -52,7 +55,7 @@ Stylesheets
 -----------
 
 ### Formatting
-* Use the *LESS* syntax.
+* Use the [*LESS*][9] syntax.
 * Use hyphens when naming mixins, extends, classes & variables: `span-columns` not `span_columns` or `spanColumns`.
 * Use space between property and value: `width: 20px` not `width:20px`.
 * Use a blank line above selector that has styles.
@@ -67,7 +70,7 @@ Stylesheets
 * Don't use ID's for style.
 * Use meaningful names: `$visual-grid-color` not `$color` or `$vslgrd-clr`.
 * Use ID and class names that are as short as possible but as long as necessary.
-* Append the prefix js- to ID's that are used by Javascript.
+* Append the prefix `js-` to ID's that are used by Javascript.
 * Avoid using the direct descendant selector `>`.
 * Avoid nesting more than 4 selectors deep.
 * Don't nest more than 6 selectors deep.
@@ -78,8 +81,20 @@ Stylesheets
 
 ### Organization
 * Use [Normalize][4] as a browser reset.
-* Use [HTML5 Boilerplate][7] as your guide to HTML5 best practices
+* Use [HTML5 Boilerplate][7] as your guide to HTML5 best practices.
 * Prefer [Foundation][6] by [Zurb][8] as the base layout, then override with custom styles later
+
+
+File Formats
+------------
+
+* Be stored as ASCII text.
+* Use ISO-8859-1 or UTF-8 character encoding. The encoding may be declared using
+  declare(encoding = 'utf-8'); at the top of the file.
+* Be Unix formatted. "Unix formatted" means lines must end only with a line feed
+  (LF). Line feeds are represented as ordinal 10, octal 012 and hex 0A. Do not 
+  use carriage returns (CR) like Macintosh computers do or the carriage 
+  return/line feed combination (CRLF) like Windows computers do.
 
 
 [1]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
@@ -89,3 +104,5 @@ Stylesheets
 [6]: http://foundation.zurb.com/
 [7]: http://html5boilerplate.com/
 [8]: http://www.zurb.com/
+[9]: http://lesscss.org/#docs
+[10]: http://en.wiktionary.org/wiki/format

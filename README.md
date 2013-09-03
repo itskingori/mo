@@ -13,7 +13,7 @@ Guidelines
 * [Best Practice][12] - techniques that have consistently shown results
 * [Code Review][9] -  examination of code
 * [Convention][11] - considered acceptable or _polite_ to most
-* [Style][13] - good to look at and easy read
+* [Style][13] - easy to read and good to look
 
 
 The Top Layer
