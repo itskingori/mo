@@ -12,7 +12,7 @@ Guidelines
 
 * [Code Review][9] -  examination of code
 * Convention - considered acceptable or _polite_ to most
-* Style - good to look at and read
+* Style - good to look at and easy read
 
 
 The Top Layer
@@ -24,8 +24,9 @@ The Top Layer
 * Many heads are inevitably better than one.
 * Don't violate a guideline without a good reason.
 * A reason is good when you can convince a teammate.
-* Don't rewrite existing code to follow the code guide.
-* Code well. Your last duty is to hand it off to a competent successor.
+* Don't rewrite existing code to follow the code guidelines.
+* Code well. Everyone leaves. Your last duty is to hand it off to a competent successor.
+* Don't wait for crisis, adopt an M.O. asap and stay safe.
 
 
 Language
@@ -46,6 +47,7 @@ Direct and indirect influences:
 * [Thoughbot, Inc][2] - from which this was [heavily borrowed from][3]
 * [Foundation][4] by [Zurb][5]
 * [The Cathedral And The Bazaar][7] by [Eric S. Raymond][8]
+* [The iHub][10]
 
 
 License
@@ -65,3 +67,4 @@ attribution and waive liability.
 [7]: http://kingori.co/articles/2013/08/cathedral-and-bazaar/
 [8]: http://www.catb.org/~esr/
 [9]: code-review/README.md
+[10]: http://ihub.co.ke/
