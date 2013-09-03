@@ -35,7 +35,7 @@ Database
 --------
 
 * Prefer MySQL
-* Prefer MySQL [InnoDB Storage Engine][5]
+* Prefer [InnoDB Storage Engine][5] (if using MySQL)
 * Naming DB column titles by separating words with underscores_ e.g. user_id, vendor_id
 
 
