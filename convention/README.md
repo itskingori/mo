@@ -1,10 +1,9 @@
 Convention
 ==========
 
-    > A convention is a set of agreed, stipulated, or generally accepted
-    > standards, norms, social norms, or criteria, often taking the form of a
-    > custom.
-    > ~ [Wikipedia][1]
+> A convention is a set of agreed, stipulated, or generally accepted standards,
+> norms, social norms, or criteria, often taking the form of a custom.
+> ~ [Wikipedia][1]
 
 
 Write a feature
