@@ -63,8 +63,8 @@ For changes which they can make themselves, they check out the branch.
     git checkout <BRANCH-NAME>
     git diff staging/master..HEAD
 
-They make small changes right in the branch, test the feature in browser,
-run tests, commit, and push.
+They make small changes right in the branch, test the feature in browser, run
+tests, commit, and push.
 
 When satisfied, they comment on the pull request `Ready to merge.`
 
@@ -72,8 +72,8 @@ When satisfied, they comment on the pull request `Ready to merge.`
 Merge
 -----
 
-Rebase interactively. Squash commits like "Fix whitespace" into one or a
-small number of valuable commit(s). Edit commit messages to reveal intent.
+Rebase interactively. Squash commits like "Fix whitespace" into one or a small
+number of valuable commit(s). Edit commit messages to reveal intent.
 
     git fetch origin
     git rebase -i origin/master
@@ -98,7 +98,7 @@ Delete your local feature branch.
 Deploy
 ------
 
-Yo, whatever [floats your boat][5].
+Yo, use whatever method that [floats your boat][5].
 
 [1]: "http://en.wikipedia.org/wiki/Convention_(norm)"
 [2]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
