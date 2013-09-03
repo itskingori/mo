@@ -10,7 +10,7 @@ collaborative/community environment and programming in style.
 Guidelines
 ----------
 
-* Code Review -  examination of code
+* [Code Review][9] -  examination of code
 * Convention - considered acceptable or _polite_ to most
 * Style - good to look at and read
 
@@ -64,3 +64,4 @@ attribution and waive liability.
 [6]: http://kingori.co/articles/2013/09/mo/
 [7]: http://kingori.co/articles/2013/08/cathedral-and-bazaar/
 [8]: http://www.catb.org/~esr/
+[9]: code-review/README.md
