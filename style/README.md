@@ -1,5 +1,5 @@
-Style
-=====
+[←](../) Style
+==============
 
 > The layout of a document (hence) ... the form of presentation of something.
 > ~ [Wikipedia][10]
