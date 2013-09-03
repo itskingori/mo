@@ -39,13 +39,6 @@ Database
 * Naming DB column titles by separating words with underscores_ e.g. user_id, vendor_id
 
 
-HTML
-----
-
-* Use [HTML5 Boilerplate][7] as your guide to HTML5 best practices
-* Prefer [Foundation][6] by [Zurb][8] as the base layout, then override with custom styles later
-
-
 CSS
 ---
 
@@ -64,6 +57,4 @@ Browsers
 [3]: http://code.mumak.net/2012/02/simple-made-easy.html
 [4]: http://lesscss.org/
 [5]: http://en.wikipedia.org/wiki/InnoDB
-[6]: http://foundation.zurb.com/
-[7]: http://html5boilerplate.com/
-[8]: http://www.zurb.com/
+
