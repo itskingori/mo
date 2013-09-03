@@ -11,11 +11,19 @@
 General
 -------
 
+* Document everything. There is no such thing as too much documentation.
 * Don't duplicate the functionality of a built-in library.
 * Don't swallow exceptions or "fail silently".
 * Don't write code that guesses at future functionality.
 * [Exceptions should be exceptional][2].
 * [Keep the code simple][3].
+
+
+Git
+---
+
+* Use global ignore config file [(Why?)][6]
+* Don't commit private data [(remove it!)][7]
 
 
 Object-Oriented Design
@@ -36,7 +44,8 @@ Database
 
 * Prefer MySQL
 * Prefer [InnoDB Storage Engine][5] (if using MySQL)
-* Naming DB column titles by separating words with underscores_ e.g. user_id, vendor_id
+* Naming DB column titles by separating words with underscores `_` e.g. 
+  `user_id`, `vendor_id`
 
 
 CSS
@@ -57,4 +66,5 @@ Browsers
 [3]: http://code.mumak.net/2012/02/simple-made-easy.html
 [4]: http://lesscss.org/
 [5]: http://en.wikipedia.org/wiki/InnoDB
-
+[6]: http://kingori.co/minutae/2013/04/global-ignores/
+[7]: https://help.github.com/articles/remove-sensitive-data

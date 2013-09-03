@@ -98,7 +98,8 @@ Delete your local feature branch.
 Deploy
 ------
 
-Yo, use whatever method that [floats your boat][5].
+Yo, use whatever [floats your boat][5].
+
 
 [1]: "http://en.wikipedia.org/wiki/Convention_(norm)"
 [2]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html

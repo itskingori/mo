@@ -3,31 +3,32 @@ M.O. [★][6]
 
 [_Modus Operandi._][6]
 
-No matter how magical and awesome your output is, ultimately, _**every process
-can be reduced to a set of rules**_. These are guidelines for getting things
-done in a collaborative/community environment and programming in style.
+No matter how complex the processes or magical the output is, ultimately, _**it
+can and should be reduced to a set of rules**_, for continuity sake. These are
+guidelines/recommendations for getting things done in a collaborative/community
+environment and programming in style.
 
 Guidelines
 ----------
 
 * [Best Practice][12] - techniques that have consistently shown results
-* [Code Review][9] -  examination of code
-* [Convention][11] - considered acceptable or _polite_ to most
-* [Style][13] - easy to read and good to look
+* [Code Review][9] -  how to examine each others code
+* [Convention][11] - that which is considered acceptable or _polite_ to most
+* [Style][13] - easy to read and good to look at
 
 
 The Top Layer
 -------------
 
 * Be consistent.
-* Teach if you can.
+* Teach, if you can.
 * Publish what you learn.
 * Many heads are inevitably better than one.
 * Don't violate a guideline without a good reason.
 * A reason is good when you can convince a teammate.
 * Don't rewrite existing code to follow the code guidelines.
-* Code well. Everyone leaves. Your last duty is to hand it off to a competent successor.
-* Don't wait for crisis, adopt an M.O. asap and stay safe.
+* Code well. Everyone leaves. Your last duty should be to hand it off to a competent successor.
+* Don't wait for crisis to change, adopt an M.O. asap and stay safe.
 
 
 Language
@@ -37,7 +38,8 @@ Language
 * "Don't" means there's never a good reason.
 * "Prefer" indicates there's a better option, you can evaluate it's pros and cons.
 * "Use" is a positive instruction.
-* Lack of "Avoid", "Don't", "Prefer" or "Use" implies a rule.
+* "Limit" is a caution against excesses.
+* Lack of "Avoid", "Don't", "Prefer", "Use" or "Limit" implies a rule.
 
 
 Credits
@@ -54,9 +56,9 @@ Direct and indirect influences:
 License
 -------
 
-The [MIT License bundled therein][1] is a permissive license that is short and
-to the point. It lets people do anything they want as long as they provide
-attribution and waive liability.
+[King'ori J. Maina][14] © 2013. The [MIT License bundled therein][1] is a
+permissive license that is short and to the point. It lets people do anything
+they want as long as they provide attribution and waive liability.
 
 
 [1]: LICENSE
@@ -72,3 +74,4 @@ attribution and waive liability.
 [11]: convention/README.md
 [12]: best-practice/README.md
 [13]: style/README.md
+[14]: http://kingori.co/

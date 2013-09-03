@@ -7,7 +7,6 @@
 Git
 ---
 
-* Use global ignore [(Why?)][2]
 * Prefix feature branch names with your initials.
 * Write a [good commit message][1].
 
@@ -88,17 +87,16 @@ Stylesheets
 File Formats
 ------------
 
-* Be stored as ASCII text.
+* Use ASCII text.
 * Use ISO-8859-1 or UTF-8 character encoding. The encoding may be declared using
   declare(encoding = 'utf-8'); at the top of the file.
-* Be Unix formatted. "Unix formatted" means lines must end only with a line feed
+* Use Unix formatting. "Unix formatted" means lines must end only with a line feed
   (LF). Line feeds are represented as ordinal 10, octal 012 and hex 0A. Do not 
   use carriage returns (CR) like Macintosh computers do or the carriage 
   return/line feed combination (CRLF) like Windows computers do.
 
 
 [1]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-[2]: http://kingori.co/minutae/2013/04/global-ignores/
 [3]: http://unix.stackexchange.com/questions/23903/should-i-end-my-text-script-files-with-a-newline
 [4]: http://necolas.github.io/normalize.css/
 [6]: http://foundation.zurb.com/
