@@ -10,6 +10,7 @@ done in a collaborative/community environment and programming in style.
 Guidelines
 ----------
 
+* [Best Practice][12] - techniques that have consistently shown results
 * [Code Review][9] -  examination of code
 * [Convention][11] - considered acceptable or _polite_ to most
 * Style - good to look at and easy read
@@ -69,3 +70,4 @@ attribution and waive liability.
 [9]: code-review/README.md
 [10]: http://ihub.co.ke/
 [11]: convention/README.md
+[12]: best-practice/README.md
