@@ -26,6 +26,12 @@ Git
 * Don't commit private data [(remove it!)][7]
 
 
+Versioning
+----------
+
+* Use [Semantic Versioning][8]
+
+
 Object-Oriented Design
 ----------------------
 
@@ -68,3 +74,4 @@ Browsers
 [5]: http://en.wikipedia.org/wiki/InnoDB
 [6]: http://kingori.co/minutae/2013/04/global-ignores/
 [7]: https://help.github.com/articles/remove-sensitive-data
+[8]: http://semver.org/

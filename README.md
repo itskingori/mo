@@ -50,6 +50,7 @@ Direct and indirect influences:
 * [Thoughbot, Inc][2] - from which this was [heavily borrowed from][3]
 * [Foundation][4] by [Zurb][5]
 * [The Cathedral And The Bazaar][7] by [Eric S. Raymond][8]
+* [Semantic Versioning][15] by [Tom Preston-Werner][16]
 * [The iHub][10]
 
 
@@ -75,3 +76,5 @@ they want as long as they provide attribution and waive liability.
 [12]: best-practice/README.md
 [13]: style/README.md
 [14]: http://kingori.co/
+[15]: http://semver.org/
+[16]: http://tom.preston-werner.com/
