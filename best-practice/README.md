@@ -54,6 +54,13 @@ Database
   `user_id`, `vendor_id`
 
 
+Web APIs
+--------
+
+* Prefer [JSON][9].
+* Prefer [RESTful implementations][10].
+
+
 CSS
 ---
 
@@ -75,3 +82,5 @@ Browsers
 [6]: http://kingori.co/minutae/2013/04/global-ignores/
 [7]: https://help.github.com/articles/remove-sensitive-data
 [8]: http://semver.org/
+[9]: http://www.json.org/
+[10]: http://en.wikipedia.org/wiki/Representational_state_transfer#RESTful_web_APIs
