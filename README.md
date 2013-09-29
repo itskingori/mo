@@ -39,6 +39,7 @@ Language
 * "Prefer" indicates there's a better option, you can evaluate it's pros and cons.
 * "Use" is a positive instruction.
 * "Limit" is a caution against excesses.
+* "Team" comprises a group of people linked in a common purpose.
 * Lack of "Avoid", "Don't", "Prefer", "Use" or "Limit" implies a rule.
 
 
