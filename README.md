@@ -34,13 +34,13 @@ The Top Layer
 Language
 --------
 
-* "Avoid" means don't do it unless you have good reason.
-* "Don't" means there's never a good reason.
-* "Prefer" indicates there's a better option, you can evaluate it's pros and cons.
-* "Use" is a positive instruction.
-* "Limit" is a caution against excesses.
-* "Team" comprises a group of people linked in a common purpose.
-* Lack of "Avoid", "Don't", "Prefer", "Use" or "Limit" implies a rule.
+* _"Avoid"_ means don't do it unless you have good reason.
+* _"Don't"_ means there's never a good reason.
+* _"Prefer"_ indicates there's a better option, you can evaluate it's pros and cons.
+* _"Use"_ is a positive instruction.
+* _"Limit"_ is a caution against excesses.
+* _"Team"_ comprises a group of people linked in a common purpose.
+* Lack of _"Avoid"_, _"Don't"_, _"Prefer"_, _"Use"_ or _"Limit"_ implies a rule.
 
 
 Credits
