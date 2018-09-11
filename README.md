@@ -68,7 +68,7 @@ they want as long as they provide attribution and waive liability.
 [3]: https://github.com/thoughtbot/guides
 [4]: http://foundation.zurb.com/
 [5]: http://www.zurb.com/
-[6]: http://kingori.co/articles/2013/09/modus-operandi/
+[6]: http://kingori.co/blog/2013/09/modus-operandi/
 [7]: http://kingori.co/articles/2013/08/cathedral-and-bazaar/
 [8]: http://www.catb.org/~esr/
 [9]: code-review/README.md
